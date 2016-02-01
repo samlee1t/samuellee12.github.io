@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Tinkering with my toys as a child led me to work on hands on projects as a high schooler, eventually leading me to my current studies in Mechanical Engineering at The Cooper Union in NYC.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I love to solve problems! If you have any mechanical, hardware, or even (basic) software issues, feel free to shoot me a message or email! 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[lee12@cooper.edu](mailto:lee12@cooper.edu)
