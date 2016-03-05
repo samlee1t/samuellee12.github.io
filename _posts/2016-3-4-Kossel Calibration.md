@@ -14,4 +14,4 @@ The process went something like this:
 Here is a picture of a couple (9 of them, I believe) calibration pieces that I printed while adjusting the print size:
 ![Pieces][logo]
 
-[logo]: http://i693.photobucket.com/albums/vv297/nerfnrg/completedKossel_zpshxsvutc9.jpg "Calibration Pieces"
+[logo]: http://i693.photobucket.com/albums/vv297/nerfnrg/IMG_20160220_011619_zpshg2xqkkl.jpg "Calibration Pieces"
