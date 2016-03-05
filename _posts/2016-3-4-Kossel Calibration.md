@@ -15,3 +15,5 @@ Here is a picture of a couple (9 of them, I believe) calibration pieces that I p
 ![Pieces][logo]
 
 [logo]: http://i693.photobucket.com/albums/vv297/nerfnrg/IMG_20160220_011619_zpshg2xqkkl.jpg "Calibration Pieces"
+
+The calibration piece stl that I used on recommendation of the creator himself (fellow schoolmate) can be found [here](https://www.thingiverse.com/thing:121106).
