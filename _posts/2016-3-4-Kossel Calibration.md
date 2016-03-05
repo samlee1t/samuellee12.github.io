@@ -12,3 +12,6 @@ The process went something like this:
 4) Correct Z print size by adjusting Steps per MM.
 
 Here is a picture of a couple (9 of them, I believe) calibration pieces that I printed while adjusting the print size:
+![Pieces][logo]
+
+[logo]: http://i693.photobucket.com/albums/vv297/nerfnrg/completedKossel_zpshxsvutc9.jpg "Calibration Pieces"
