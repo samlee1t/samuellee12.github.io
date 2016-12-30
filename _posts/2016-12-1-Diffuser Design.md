@@ -7,7 +7,7 @@ One of our recent assignments was to design a lifting diffuser designed to lift 
 
 ![Diffuser View 1][logo]
 
-[logo]: http://i693.photobucket.com/albums/vv297/nerfnrg/PB300075_zpsvjl2gzzj.jpg "test"
+[logo]: http://i693.photobucket.com/albums/vv297/nerfnrg/PB300075_zpsvjl2gzzj.jpg "Diffuser 1"
 
 ![Diffuser View 2][logo]
 
