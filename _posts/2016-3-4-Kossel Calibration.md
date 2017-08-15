@@ -14,6 +14,6 @@ The process went something like this:
 Here is a picture of a couple (9 of them, I believe) calibration pieces that I printed while adjusting the print size:
 ![Pieces][logo]
 
-[logo]: http://i693.photobucket.com/albums/vv297/nerfnrg/IMG_20160220_011619_zpshg2xqkkl.jpg "Calibration Pieces"
+[logo]: http://u.cubeupload.com/disaccurate/IMG20160220011619zps.jpg "Calibration Pieces"
 
 The calibration piece stl that I used on recommendation of the creator himself (fellow schoolmate) can be found [here](https://www.thingiverse.com/thing:121106).
