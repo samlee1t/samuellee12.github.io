@@ -7,6 +7,6 @@ I have completed building my Kossel Mini, parts are sourced from Robotdigg and B
 
 ![Kossel Mini][logo]
 
-[logo]: http://i693.photobucket.com/albums/vv297/nerfnrg/completedKossel_zpshxsvutc9.jpg "Kossel Mini"
+[logo]: http://u.cubeupload.com/disaccurate/completedKosselzpshx.jpg "Kossel Mini"
 
 There is a Kapton Heated Bed under the blue tape. Current print settings are at 208C for PLA and 60C for the bed. Planned updates: fuse switch for the power supply (IEC320 C14), print a top spool mount, PSU mount. 
