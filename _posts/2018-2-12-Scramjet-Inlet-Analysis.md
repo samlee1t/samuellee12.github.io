@@ -25,12 +25,12 @@ We can see that the reflections almost cancel out, but do not quite hit the angl
 
 Below, the off-design case is shown at Mach 4. We expected to see different flow patterns due to the initial design of the geometry.
 
-![Mach4-1][logo3]
+![Mach4-1][logo4]
 
-[logo3]: http://u.cubeupload.com/disaccurate/mach41.png "Mach 4 Results 1"
+[logo4]: http://u.cubeupload.com/disaccurate/mach41.png "Mach 4 Results 1"
 
-![Mach4-2][logo4]
+![Mach4-2][logo5]
 
-[logo4]: http://u.cubeupload.com/disaccurate/mach42.png "Mach 4 Results 2"
+[logo5]: http://u.cubeupload.com/disaccurate/mach42.png "Mach 4 Results 2"
 
 At Mach 4, the geometry results in significantly more reflections in the constant area flow section. The density is higher in general in the constant area section, which would also decrease temperature and increase mass flow rate through the constant area section. 
