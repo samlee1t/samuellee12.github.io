@@ -12,4 +12,4 @@ I love to solve problems! If you have any mechanical, hardware, or even (basic) 
 
 ### Contact me
 
-[lee12@cooper.edu](mailto:lee12@cooper.edu)
+[sam.le1t@gmail.com](mailto:sam.lee1t@gmail.com)
