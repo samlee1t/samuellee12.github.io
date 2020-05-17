@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Tinkering with my toys as a child led me to work on hands on projects as a high schooler, eventually leading me to my current studies in Mechanical Engineering at The Cooper Union in NYC. Through coursework and summer experiences, I have gained much interest in the field of aerospace engineering, especially in simulation and modeling. 
+Tinkering with my toys as a child led me to work on hands on projects as a high schooler, eventually leading me to completing my undergraduate studies in Mechanical Engineering at The Cooper Union in NYC. Through coursework and summer experiences, I have gained much interest in the field of aerospace engineering, especially in simulation and modeling. 
 
 ### More Information
 
@@ -12,4 +12,4 @@ I love to solve problems! If you have any mechanical, hardware, or even (basic) 
 
 ### Contact me
 
-[sam.le1t@gmail.com](mailto:sam.lee1t@gmail.com)
+[sam.lee1t@gmail.com](mailto:sam.lee1t@gmail.com)
