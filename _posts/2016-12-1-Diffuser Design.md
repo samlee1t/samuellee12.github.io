@@ -7,11 +7,11 @@ One of our recent assignments was to design a lifting diffuser designed to lift 
 
 ![Diffuser View 1][logo1]
 
-[logo1]: http://u.cubeupload.com/disaccurate/PB300075zpsvjl2gzzj.jpg "Diffuser 1"
+[logo1]: https://u.cubeupload.com/disaccurate/PB300075zpsvjl2gzzj.jpg "Diffuser 1"
 
 ![Diffuser View 2][logo2]
 
-[logo2]: http://u.cubeupload.com/disaccurate/PB300077zpsqchhvvfa.jpg "Diffuser 2"
+[logo2]: https://u.cubeupload.com/disaccurate/PB300077zpsqchhvvfa.jpg "Diffuser 2"
 
 Additionally, there is another concept called entrainment going on here. This is when the horizontal velocity creates a vortex of some sorts that circles around and actually creates a suction towards the diffuser. 
 
