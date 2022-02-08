@@ -12,3 +12,5 @@ The measurement area consists of an area where the water-air-structure interface
 I am currently using the shadowgraph method to measure the size, number, position, and velocity of bubbles that are present within the boundary layer. We are accomplishing this by using two 1000 W white lights to illuminate the measurement area and a Phantom Veo 640 camera to capture the high speed movies. Below is an image of the setup and a sample movie.
 
 ![SBL Setup](https://i.imgur.com/5FcGZQK.jpg "Measurement Setup")
+
+![SBL Demo](/images/SBL_5mps.gif "SBL Demo")
