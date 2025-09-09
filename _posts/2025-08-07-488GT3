@@ -2,11 +2,11 @@
 layout: post
 title: DIY 488 GT3 Steering Wheel
 ---
-I recently completed a DIY steering wheel for my racing simulator. The design is based on a real steering wheel from a Ferrari 488 GT3 racecar and has roughly the same diamter (310 mm). The shell is 3D printed out of PETG and the grips are printed out of TPU. The front surface is wrapped with carbon fiber vinyl. 
+I recently completed a DIY steering wheel for my racing simulator. The design is based on a real steering wheel from a Ferrari 488 GT3 racecar and has roughly the same diamter (310 mm). The shell is 3D printed out of PETG and the grips are printed out of TPU. The front surface is wrapped with carbon fiber vinyl. The front panel user inputs include 12 mm momentary pushbuttons, rotary encoders, and [5-way hat switches](https://www.printables.com/model/231296-45-way-hatpov-switch) modified to bolt directly into the shell.
 
 ![front](/images/488_front.jpg "front")
 
-There are two pairs of paddles on the rear of the steering wheel. The upper pair is a set of paddle shifters whose motion is driven by neodymium magnets and actuation is sensed by KW10 microswitches. The lower pair is a set of clutch paddles whose motion is driven by neodymium magnets and actuation is sensed by analog Hall effect sensors. The 
+There are two pairs of paddles on the rear of the steering wheel. The upper pair is a set of paddle shifters whose motion is driven by neodymium magnets and actuation is sensed by KW10 microswitches. The lower pair is a set of clutch paddles whose motion is driven by neodymium magnets and actuation is sensed by analog Hall effect sensors. The clutch paddles utilize a [dual clutch](https://github.com/MorGuux/PaddleClutch) function that maps the left paddle from 0 to the clutch bite point and the right paddle from 0 to 100% allowing for smoother launches.
 
 ![rear](/images/488_rear.jpg "rear")
 
@@ -14,7 +14,7 @@ The grips are printed out of TPU in two halves such that they can be swapped out
 
 ![grips](/images/488_grips.jpg "grips")
 
-The steering wheel is controlled by a Pro Micro, which was selected for its native USB HID support. The wiring diagram and the completed wiring are shown below.
+The steering wheel is controlled by a Pro Micro, which was selected for its native USB HID support. A button matrix was utilized to fit all inputs onto the limited IO ports of the Pro Micro. The wiring diagram and the completed wiring are shown below.
 
 ![schematic](/images/488_schematic.png "schematic")
 ![wires](/images/488_wires.jpg "wires")
