@@ -1,0 +1,20 @@
+---
+layout: post
+title: DIY 488 GT3 Steering Wheel
+---
+I recently completed a DIY steering wheel for my racing simulator. The design is based on a real steering wheel from a Ferrari 488 GT3 racecar and has roughly the same diamter (310 mm). The shell is 3D printed out of PETG and the grips are printed out of TPU. The front surface is wrapped with carbon fiber vinyl. 
+
+![front](/images/488_front.jpg "front")
+
+There are two pairs of paddles on the rear of the steering wheel. The upper pair is a set of paddle shifters whose motion is driven by neodymium magnets and actuation is sensed by KW10 microswitches. The lower pair is a set of clutch paddles whose motion is driven by neodymium magnets and actuation is sensed by analog Hall effect sensors. The 
+
+![rear](/images/488_rear.jpg "rear")
+
+The grips are printed out of TPU in two halves such that they can be swapped out. The image below displays a thinner grip (left) and a thicker grip (right). The grips are bolted to a skeleton that provides structural rigidity and is bolted to the remainder of the steering wheel shell. The grips were printed using 3 perimeters, 15% gyroid infill, and fuzzy skin. These settings provide a grippy texture while being sufficiently squishy.
+
+![grips](/images/488_grips.jpg "grips")
+
+The steering wheel is controlled by a Pro Micro, which was selected for its native USB HID support. The wiring diagram and the completed wiring are shown below.
+
+![schematic](/images/488_schematic.png "schematic")
+![wires](/images/488_wires.jpg "wires")
